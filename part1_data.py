@@ -1,14 +1,13 @@
 # CS1005 Discrete Structures - Fall 2026 - Course Project
-# R = 2340 (916 + 586 + 838)
-# Department pair number = 60 -> (3, 10)
-# Random networks = 35
-# Swap attempts per network = 5 x number of edges
-# Random seed = 2340
-
+# R = 3259 (916 + 586 + 838 + 919)
+# Department pair number = 29 -> (1, 12)
+# Random networks = 24
+# Swap attempts per network = 6 x number of edges
+# Random seed = 3259
 
 import gzip
 
-roll_numbers = [916, 586, 838]
+roll_numbers = [916, 586, 838, 919]
 
 edges_file = "email-Eu-core.txt.gz"
 departments_file = "email-Eu-core-department-labels.txt.gz"
