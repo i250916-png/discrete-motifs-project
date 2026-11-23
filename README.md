@@ -141,6 +141,9 @@ The smallest code is 27, so the canonical code is 27. This corresponds to **Clas
 
 The triad classification is independent of the original node ordering because the smallest code among all six orderings is used.
 
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/63a4ac83-112e-4a49-9618-0501b5b6b724" />
+<img width="739" height="1600" alt="image" src="https://github.com/user-attachments/assets/993f4639-0742-40cc-b2f0-58dd49ab60d2" />
+
 ## T4 – Observed Triad Counts
 
 We counted all 13 triad classes in the observed department networks.
